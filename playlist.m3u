@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" tvg-url="https://avkb.short.gy/jioepg.xml.gz" refresh="3600"
-# Generated 2026-11-10T14:16:09+00:00 | php-dangal-play-21-sonyliv-single-section-jiostb
+# Generated 2026-11-10T14:36:30+00:00 | php-dangal-play-21-sonyliv-single-section-jiostb
 #EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="Entertainment", Star Plus HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16702,9 +16702,9 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
 #KODIPROP:inputstream.adaptive.license_key=15cf0dece3a54ffd9af958293e2ea95d:f1d1f1db1defa0d90e550c2221e1c526
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 #EXTINF:-1 tvg-id="4250375-fancode" tvg-name="Sudurpaschim Royals vs Janakpur Bolts [Nepal Premier League Season 3, 2026]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sudurpaschim-Royals.png" tvg-category="Sports" group-title="FanCode" group-logo="https://www.google.com/s2/favicons?domain=fancode.com&sz=128", Sudurpaschim Royals vs Janakpur Bolts [Nepal Premier League Season 3, 2026]
-https://in-mc-plive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794406568~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=9101273790_watcho_92aa23b2-82c6-40~Signature=AbO9BjhOYxrpDTc223PRC08G3bW3qNcwo8TBjvS0qCNtHH2LKJ3XIUds9txwrw0UG04lMkhQCgxx34iVsLaD0vGsDW4I
+https://in-mc-plive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794407787~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=9101273790_watcho_95d09598-a7ae-46~Signature=AbO9Bjja-xAsHpB-_EB7Qj4X_I0oNx7Z96OpNepxaNxHjqb4WCfRdfxizZE67lCJCkSFNoAM2MQx-as1yADSq2sTLFgC
 #EXTINF:-1 tvg-id="4250583-fancode" tvg-name="World Feed vs Stockholm, Sweden [ATP 250 - Bybit Stockholm Open 2026]" tvg-logo="https://www.fancode.com/favicon.ico" tvg-category="Sports" group-title="FanCode" group-logo="https://www.google.com/s2/favicons?domain=fancode.com&sz=128", World Feed vs Stockholm, Sweden [ATP 250 - Bybit Stockholm Open 2026]
-https://in-mc-plive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794406569~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=9101273790_watcho_e11380ea-826d-47~Signature=AbO9BjiH1WVQO1u43lGHQR26Y8W7MDWMA6JWqY7rll-_205OQ0P-mqSwdWyaXmy1_ioo8dijkceB6l3wHyORoyIsfu4C
+https://in-mc-plive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794407788~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=9101273790_watcho_b105b798-573c-4a~Signature=AbO9BjgbD9Cpn73ARQYibw4P0-hzYnQCwjapBTA0NA6pgUsYdsYRx7FzPSugB27d63JkvP1DAt6ALv6qLrQ8oDnyWvAJ
 #EXTINF:-1 tvg-id="sonylivevents-no-events" tvg-name="No live events" group-title="Sonyliv events",No live events
 https://no-live-events.invalid/sonylivevents
 #EXTINF:-1 tvg-id="B0HHQKGLKL" tvg-name="Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b128d7c9-e3b4-4af4-9de8-33cd2dc1e986/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" tvg-category="Other" group-title="Willow live events" group-logo="https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/willow.png" type="dash",Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers
